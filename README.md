@@ -48,4 +48,3 @@ curl http://127.0.0.1:3000/
 ## Notes
 
 This is a learning project, so the code is intentionally simple and meant for experimentation rather than production use.
-# server_c_networking
